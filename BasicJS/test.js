@@ -1,0 +1,1 @@
+console.log("This is new begining of JS learning")
